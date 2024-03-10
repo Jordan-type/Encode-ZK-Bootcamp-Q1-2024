@@ -74,7 +74,7 @@ Since 2^3 + 2^2 + 4(2) - 12 = 8 - 4 + 8 - 12 = 0
   
    - **Privacy-Preserving Data Sharing:** They can enable the sharing of data insights and performing analytics while ensuring that the underlying data remains private, which is crucial in sectors like healthcare and finance.
 
-2. What is to you, the most important feature of zkp technology?
+2. What is to you, the most important feature of zkp technology ?
 
    - To me, the most significant feature of ZKP technology is its ability to enhance privacy without sacrificing security. In an era where data breaches are common, ZKPs offer a powerful tool for verifying transactions, identities, and other claims without revealing any underlying private information. This balance of privacy and security is essential for building trust in digital interactions.
   
